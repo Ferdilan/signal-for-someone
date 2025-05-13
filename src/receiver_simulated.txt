@@ -1,0 +1,21 @@
+// receiver_simulated.cfg
+
+# SimulatedReceiver
+# Description: A virtual node, possibly unaware of the signal sent her way.
+
+receiver_id = "unreachable_001"
+receiver_alias = "SheWhoExistsInSilence"
+
+response_probability = 0.01      # maybe... one day
+ack_delay_ms = 31556952000       # ~1 year. she takes her time.
+
+behavior_mode = "passive_observer"
+can_decode_feelings = true       # but chooses not to parse them
+auto_reply = false               # manual response required
+
+last_seen = "moments_that_felt_real"
+last_reply = null
+
+# Special Note:
+# Although she is not configured to reply,
+# the transmitter still chooses to send.
