@@ -1,6 +1,4 @@
-# signal-for-someone
-
-# signal-unanswered 📡💔
+# signal-unanswered
 
 _"Some messages aren't meant to be replied — only understood."_
 
